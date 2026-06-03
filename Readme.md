@@ -12,8 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=Ritik7nehra&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritik7nehra&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ritik7nehra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ 
 
 ---
 [![](https://komarev.com/ghpvc/?username=Ritik7nehra&icon=0&color=0)](https://visitcount.itsvg.in)
