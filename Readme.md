@@ -12,6 +12,9 @@
 ![](https://streak-stats.demolab.com/?user=Ritik7nehra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritik7nehra&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ritik7nehra&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
  
 
 ---
